@@ -28,7 +28,7 @@ check default Git global configuration, using below command:
 
 **Basic Git Commands**
 
-To initialize the folder as a Git repository:  *git init *
+To initialize the folder as a Git repository:  *git init*
 
 check Git repository's status: *git status*
 
@@ -36,7 +36,7 @@ Adding files to the staging area, To add files to the staging area in Git reposi
 
 Commiting to the Git repository: *git commit -m "message"*
 
-Checking the log of Git commits: *git log / git log --oneline *
+Checking the log of Git commits: *git log / git log --oneline*
 
 Checking out a file from an earlier commit: *git checkout <commit's number> <file name>*
 
@@ -58,7 +58,7 @@ Cloning an online repository: *git clone <repository URL>*
 **Setting up Node.js and NPM **
 
 Installing Node : go to https://nodejs.org and download. 
-verify the node installations using command *node -v and npm -v *
+verify the node installations using command *node -v and npm -v*
 
 **Basics of Node.js and NPM**
 
