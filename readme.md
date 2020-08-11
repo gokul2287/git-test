@@ -55,7 +55,7 @@ Pushing your commits to the online repository: *git push -u origin master*
 Cloning an online repository: *git clone <repository URL>*
 
 
-**Setting up Node.js and NPM **
+**Setting up Node.js and NPM**
 
 Installing Node : go to https://nodejs.org and download. 
 verify the node installations using command *node -v and npm -v*
